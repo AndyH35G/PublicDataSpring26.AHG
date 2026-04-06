@@ -1,3 +1,5 @@
+# PublicDataSpring26.AHG
+This is a repo for my assignments for BDATA 497
 # Introduction
 
 Hello, my name is Andy Hernandez-Gomez I am currently a senior in Data Visualization program at the University of Washington Bothell. My work that I have been doing in this program is focused on analyzing real world data. One example of this was a Shiny app I created with a team was to look at how employment was effect before and after covid pandemic. I am planned to graduate in Spring 2026 and I hoping to seek opportunities that I am able to apply my skills that I have learned.
