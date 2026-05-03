@@ -1,0 +1,31 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+  padding: 1em;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0.25em 0;
+}
+
+h3 {
+  font-size: 2em;
+  margin: 0.25em 0;
+  color:cadetblue
+}
+
+h4 {
+  font-size: 1.5em;
+  margin: 0.25em 0;
+  font-weight: bold;
+}
+h5 {
+  font-size: 14px;
+}
+
+a {
+  font-size: 2em;
+  color: blueviolet;
+}
